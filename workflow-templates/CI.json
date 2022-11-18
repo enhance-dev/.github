@@ -1,0 +1,11 @@
+{
+    "name": "Enhance publish to npm",
+    "description": "Publish to npm on push to default branch if package.json version was changed",
+    "iconName": "axol-heart",
+    "categories": [
+        "JavaScript", "node"
+    ],
+    "filePatterns": [
+        "package.json$"
+    ]
+}
