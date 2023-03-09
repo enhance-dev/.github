@@ -1,3 +1,5 @@
+![enhance-type](https://user-images.githubusercontent.com/76308/224176195-4078599d-29b7-4a56-b40f-e0925c848e16.svg)
+
 <h1><a href="https://enhance.dev">Enhance</a></h1>
 <br/>
 <p>
