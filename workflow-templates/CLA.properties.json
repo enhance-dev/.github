@@ -1,0 +1,11 @@
+{
+    "name": "Enhance CLA Workflow",
+    "description": "GitHub Action to handle CLA signing workflow",
+    "iconName": "axol-heart",
+    "categories": [
+        "JavaScript", "node"
+    ],
+    "filePatterns": [
+        "package.json$"
+    ]
+}
